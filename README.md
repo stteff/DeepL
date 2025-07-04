@@ -12,6 +12,5 @@
 Παρουσίαση Εργασίας (Νέο) (https://docs.google.com/presentation/d/113DtsMV-ph2eYIdnJjI-E9sFG8HaRJUl_1HJZ_ET9lI/edit?usp=sharing)
 
 
-OLD Παρουσίαση (https://www.notion.so/Birdsong-Classification-22495c55985680a3afc0e2beb45e4835?source=copy_link)
 
 
