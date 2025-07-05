@@ -11,7 +11,7 @@
 
 
 
-Παρουσίαση Εργασίας (Νέο) (https://docs.google.com/presentation/d/113DtsMV-ph2eYIdnJjI-E9sFG8HaRJUl_1HJZ_ET9lI/edit?usp=sharing)
+Παρουσίαση Εργασίας (https://docs.google.com/presentation/d/113DtsMV-ph2eYIdnJjI-E9sFG8HaRJUl_1HJZ_ET9lI/edit?usp=sharing)
 
 
 
