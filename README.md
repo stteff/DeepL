@@ -13,7 +13,7 @@
 
 Παρουσίαση Εργασίας (https://docs.google.com/presentation/d/113DtsMV-ph2eYIdnJjI-E9sFG8HaRJUl_1HJZ_ET9lI/edit?usp=sharing)
 
-Report (https://www.notion.so/Report-22595c559856800f9addc5e77cbeef41?source=copy_link)
+Report (https://www.notion.so/Report-on-Deep-Learning-Project-22595c559856800f9addc5e77cbeef41?source=copy_link)
 
 
 
